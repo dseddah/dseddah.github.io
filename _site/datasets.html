@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Datasets and Models · Djamé Seddah</title>
+  <meta name="description" content="">
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <div>
+        <a class="site-title" href="/">Djamé Seddah</a>
+        <p class="site-tagline">Research in NLP, Robust Language Modeling, LLM and Model Safety, Low Ressource Languages and Specialized domains </p>
+      </div>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="/">Home</a>
+        <a href="/research">Research</a>
+        <a href="/people">People</a>
+        <a href="/publications">Publications</a>
+        <a href="/datasets">Models and Datasets</a>
+        <a href="/teaching">Teaching</a>
+        <a href="/contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container page-content">
+    <h1>Datasets and Models</h1>
+    <h2 id="neural-models">Neural Models</h2>
+
+<ul>
+  <li>
+    <p>I was involved in the creation and release of <strong>CamemBERT</strong>, the first BERT-based language model released for a language other than English. In particular, I can take credit for pushting our minimal pre-training data size argument, required to reach state-of-the-art performance, and on the transfer-learning setup for parsing tasks.</p>
+  </li>
+  <li>
+    <p>I was also deeply involved in early efforts aimed at replicating GPT2 language models beyond English. With the startup LightOn, we released <strong>PagnolXL</strong>, the first French generative model at roughly GPT-2 scale. Around the same period, together with Benoit Sagot and Pedro Ortiz, I was also involved in the initial <strong>BigScience</strong> proposal.</p>
+  </li>
+  <li>
+    <p>Through the work of my PhD student Arij Riabi, I was strongly involved in the release of <strong>CharacterBERT-UGC</strong>, a character-based model for user-generated content in French and North African dialectal Arabic. Despite being trained on only 99k sentences, it achieved performance comparable to models trained on orders of magnitude more data.</p>
+  </li>
+  <li>
+    <p>Together with my PhD student Wissam Antoun and Benoit Sagot, we released several models, such as <strong>CamemBERTa</strong>, <strong>CamemBERT v2</strong>, and later <strong>CamemBERTa v2</strong>, a series of highly data-efficient French language models based on DeBERTa-v3-style training objectives. More recently, we also released a <strong>ModernBERT-based variant</strong> of CamemBERT v2.</p>
+  </li>
+  <li>
+    <p>More recently, I led the <strong>GAPeron</strong> project, a series of French LLMs ranging from 1.5B to 24B parameters and trained on up to 4T tokens. The core implementation and training work was carried out by Nathan Godey, Wissam Antoun, and Rian Touchent, while Rachel Bawden, Eric de la Clergerie, Benoit Sagot, and I ensured the scientific follow-up of the project.</p>
+  </li>
+</ul>
+
+<p>All those models are available in the <a href="https://huggingface.co/almanach/models">ALMAnaCH’s Hugginface space</a> and or through the <a href="https://almanach.inria.fr/software_and_resources-en.html">ALMAnaCH’s models page</a>.</p>
+
+<h2 id="datasets">Datasets</h2>
+<ul>
+  <li><strong>Scribe Finance</strong> A Q&amp;A multimodal dataset (text+images) focusing on the French financial domain. Include multiturn evaluation.  <a href="https://github.com/dseddah/Scribe_finance">repo</a></li>
+  <li><strong>Multimodal FactChecking for French and German</strong> Two new, up-to-date large-scale datasets for French and German containing claims, debunking articles, visual media, and evidence categorized according to journalistic verification practices. (to appear)</li>
+  <li><strong>Adversarial GPT</strong> An adversarial dataset in French designed to fool chatGPT and other LLM-generated content detectors. First of its kind, released in early 2023. <a href="https://gitlab.inria.fr/wantoun/robust-chatgpt-detection">repo</a></li>
+  <li><strong>NArabizi Treebank</strong> — The first treebank for North-African Dialectal Arabic written in Arabizi (transliterated Arabic to Latin script). <a href="https://gitlab.inria.fr/ariabi/release-narabizi-treebank">v2 repo</a></li>
+  <li><strong>French Social Media Bank (Cr#pBank)</strong> — A French treebank made of Facebook(c), Twitter(c), Doctissimo (medical forum) and JeuxVideos.com (a video game forum). First annotated Facebook data set <a href="/assets/FrenchSocialMediaBank-v0.9.1beta.tar.gz">Download v0.9.1</a></li>
+  <li><strong>Sequoia Treebank</strong> — one of the first freely available French treebanks, with data from Wikipedia, news, Europarl, and biomedical text.</li>
+  <li><strong>Deep Sequoia Treebank</strong> — an updated version with an extra annotation layer in deeper syntax. Done in collaboration with the Nancy Semagramme team <a href="https://deep-sequoia.inria.fr">web</a></li>
+  <li><strong>Deep FTB</strong> — an instance of the French Treebank (used for the SPRML Shared tasks) with the same deep syntax annotation layer as the Deep Sequoia. ‘‘(contact me or Marie Candito for the data set, you need a free licence of the original FTB.)</li>
+  <li><strong>French QuestionBank</strong> — First treebank made of questions, besides English. First 1800 sentences, out of 2600, are aligned with the English QuestionBank (Judge et al, 2006).Available in const, surface and deep dependencies. <a href="http://alpage.inria.fr/Treebanks/FQB/">webpage</a> Now available in Universal Dependencies.</li>
+  <li><strong>SPMRL 2013/2014 dataset</strong> — a set of treebanks for 9 morphologically-rich languages (Arabic, Basque, French, German, Hebrew, Hungarian, Korean, Polish, Swedish) that were used for the two SPMRL Shared tasks (2013,2014) and are still used today (especially for constituant parsing evaluation). They were the first shared tasks to propose an end-to-end evaluation with non gold tokens Overview paper shared task page (data set still available). Bonus: both const and dependency trees are aligned at the token level. Also contains a few LCFRS treebanks (const trees with crossing branches). <a href="https://web.archive.org/web/20151030034817/https://dokufarm.phil.hhu.de/spmrl2013/doku.php">webpage</a></li>
+</ul>
+
+<h2 id="note">Note</h2>
+<p>this page is still in construction, I will add all my other contributions later.</p>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p>
+        © Djamé Seddah — 2026  
+        · Last updated: April 2026
+      </p>
+    </div>
+  </footer>
+</body>
+</html>

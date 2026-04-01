@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.excerpt | strip_html | normalize_whitespace | truncate: 160 }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <div>
+        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <p class="site-tagline">Research in NLP, Robust Language Modeling, LLM and Model Safety, Low Ressource Languages and Specialized domains </p>
+      </div>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/research' | relative_url }}">Research</a>
+        <a href="{{ '/people' | relative_url }}">People</a>
+        <a href="{{ '/publications' | relative_url }}">Publications</a>
+        <a href="{{ '/datasets' | relative_url }}">Models and Datasets</a>
+        <a href="{{ '/teaching' | relative_url }}">Teaching</a>
+        <a href="{{ '/contact' | relative_url }}">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container page-content">
+    {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p>
+        © {{ site.title }} — {{ site.time | date: "%Y" }}  
+        · Last updated: {{ site.time | date: "%B %Y" }}
+      </p>
+    </div>
+  </footer>
+</body>
+</html>
