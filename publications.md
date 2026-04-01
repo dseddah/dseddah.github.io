@@ -6,11 +6,11 @@ permalink: /publications
 
 ***2026***
 
-* **Triggers Hijack Language Circuits: A Mechanistic Analysis of Backdoor Behaviors in Large Language Models** Tho Lasnier, Wissam Antoun, Francis Kulumba, Djamé Seddah. 2026. [arXiv preprint](https://arxiv.org/pdf/2602.10382)
-* **When Tables Go Crazy: Evaluating Multimodal Models on French Financial Documents** Virginie Mouilleron, Tho Lasnier, Djamé Seddah. 2026. [arXiv preprint](https://arxiv.org/pdf/2602.10384)
-* **Disentangling meaning from language in LLM-based machine translation**. Tho Lasnier, Armel Zebaze, Djamé Seddah, Rachel Bawden, Benot Sagot. 2026. [arxiv preprint](https://arxiv.org/pdf/2602.04613)
-* **Leveraging Wikidata for Geographically Informed Sociocultural Bias Dataset Creation: Application to Latin America** Yannis Karmim, Renato Pino, Hernan Contreras, Hernan Lira, Sebastian Cifuentes, Simon Escoffier, Luis Mart, Djamé Seddah, Valentin Barrire. 2026. To appear in proceedings of the Workshop on Multilingual and Multicultural Evaluation, colocated with EACL 2026 (MME@EACL). [paper](https://hal.science/hal-05510068v1)
-* **Multilingual, Multimodal Pipeline for Creating Authentic and Structured Fact-Checked Claim Dataset**Z. Melce Hsnbeyi, Virginie Mouilleron, Leonie Uhling, Daniel Foppe, Tatjana Scheffler, Djamé Seddah. 2026. To appear in the proceedings of the Fifteenth biennial Language Resources and Evaluation Conference (LREC 2026). [pdf](https://arxiv.org/pdf/2601.07985)
+* **Triggers Hijack Language Circuits: A Mechanistic Analysis of Backdoor Behaviors in Large Language Models** Théo Lasnier, Wissam Antoun, Francis Kulumba, Djamé Seddah. 2026. [arXiv preprint](https://arxiv.org/pdf/2602.10382)
+* **When Tables Go Crazy: Evaluating Multimodal Models on French Financial Documents** Virginie Mouilleron, Théo Lasnier, Djamé Seddah. 2026. [arXiv preprint](https://arxiv.org/pdf/2602.10384)
+* **Disentangling meaning from language in LLM-based machine translation**. Théo Lasnier, Armel Zebaze, Djamé Seddah, Rachel Bawden, Benot Sagot. 2026. [arxiv preprint](https://arxiv.org/pdf/2602.04613)
+* **Leveraging Wikidata for Geographically Informed Sociocultural Bias Dataset Creation: Application to Latin America** Yannis Karmim, Renato Pino, Hernan Contreras, Hernan Lira, Sebastian Cifuentes, Simon Escoffier, Luis Mart, Djamé Seddah, Valentin Barrière. 2026. To appear in proceedings of the Workshop on Multilingual and Multicultural Evaluation, colocated with EACL 2026 (MME@EACL). [paper](https://hal.science/hal-05510068v1)
+* **Multilingual, Multimodal Pipeline for Creating Authentic and Structured Fact-Checked Claim Dataset**Z. Melce Husunbeyi, Virginie Mouilleron, Leonie Uhling, Daniel Foppe, Tatjana Scheffler, Djamé Seddah. 2026. To appear in the proceedings of the Fifteenth biennial Language Resources and Evaluation Conference (LREC 2026). [pdf](https://arxiv.org/pdf/2601.07985)
 
 ***2025***
 

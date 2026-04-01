@@ -23,7 +23,7 @@ I also teach an advanced NLP class targeted to profesional project managers in t
 - Director of studies for the C2I program at Université Paris-Sorbonne
 
 
-## Earlier course portfolio (during my PhD tiùe)
+## Earlier course portfolio (during my PhD time)
 
 ### Computer science
 - C programming
