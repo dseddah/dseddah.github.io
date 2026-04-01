@@ -8,5 +8,6 @@ defaults:
       path: ""
     values:
       layout: default
+
 baseurl: ""
 url: "https://dseddah.github.io"

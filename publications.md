@@ -3,7 +3,6 @@ title: Publications
 permalink: /publications
 ---
 
-> This page preserves the long publication list extracted from the archived site. It remains intentionally close to the source material, with only light cleanup for GitHub Pages.
 
 ***2026***
 
