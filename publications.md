@@ -3,6 +3,7 @@ title: Publications
 permalink: /publications
 ---
 
+All my papers are available on my [Google Scholar's profile](https://scholar.google.com/citations?user=P7EtARsAAAAJ&hl=fr&authuser=1), [Semantic Scolar](https://www.semanticscholar.org/author/Djamé-Seddah/1679170) and (DPLB)[https://dblp.org/pid/19/1467.html]. 
 
 ***2026***
 
