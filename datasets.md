@@ -21,6 +21,7 @@ All those models are available in the [ALMAnaCH's Hugginface space](https://hugg
 ## Datasets
 - **Scribe Finance** A Q&A multimodal dataset (text+images) focusing on the French financial domain. Include multiturn evaluation.  [repo](https://github.com/dseddah/Scribe_finance)
 - **Multimodal FactChecking for French and German** Two new, up-to-date large-scale datasets for French and German containing claims, debunking articles, visual media, and evidence categorized according to journalistic verification practices. (to appear)
+- **Counter Dataset** An online multilingual (fr, en, ar) radicalisation dataset, with semantic pseudo-anonymisation (NER, Radical level detection, Calk for action). Multivieuw annotations. Covers most social medias. [repo](https://gitlab.inria.fr/ariabi/counter-dataset-public/)
 - **Adversarial GPT** An adversarial dataset in French designed to fool chatGPT and other LLM-generated content detectors. First of its kind, released in early 2023. [repo](https://gitlab.inria.fr/wantoun/robust-chatgpt-detection)
 - **NArabizi Treebank** — The first treebank for North-African Dialectal Arabic written in Arabizi (transliterated Arabic to Latin script). [v2 repo](https://gitlab.inria.fr/ariabi/release-narabizi-treebank)
 - **French Social Media Bank (Cr\#pBank)** — A French treebank made of Facebook(c), Twitter(c), Doctissimo (medical forum) and JeuxVideos.com (a video game forum). First annotated Facebook data set [Download v0.9.1]({{ '/assets/FrenchSocialMediaBank-v0.9.1beta.tar.gz' | relative_url }})
