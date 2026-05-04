@@ -14,7 +14,7 @@ layout: default
 - **Romain Froger** — PhD (2025–2028), CIFRE Meta. LLM agents: reasoning, planning, tool use. Co-supervisor (50%, with T. Scaliom, Meta).
 - **Sofia de Témiolles** — PhD (2025–2028), AeX SaLM. Bias in NLP evaluation; fairness, context-sensitive models. Co-supervisor (50%, with J.-P. Cointet, Sciences Po).
 - **Wissam Antoun** — Predoc (2022–2023), PhD (2023–2026), Counter / Ministry of Interior. Detection of LLM-generated content; backdoored LLMs. Co-supervisor (80%, with B. Sagot).
-- **Arij Riabi** — Predoc (2020–2021), PhD (2021–2024), Prairie / Counter. Multilingual radical content detection; annotator bias; privacy-preserving datasets. Supervisor (90%, with L. Romary).
+
 
 ## Postdocs and Research Engineers
 
@@ -25,6 +25,7 @@ layout: default
 ## Alumni
 
 - **Arij Riabi** — Predoc (2020–2021), PhD (2021–2024), Prairie / Counter. Multilingual radical content detection; annotator bias; privacy-preserving datasets. Supervisor (90%, with L. Romary). [pdf](https://theses.hal.science/tel-05123132)
+- **Syrielle Montariol** - Postdoc (2021-2022), Counter. Multilingual hate speech detection with a focus on multimodal models, cross-lingual transfer and temporal graph modeling for social networks. Supervisor (100%)
 - **Benjamin Muller** — PhD (2018–2022), Parsiti / SoSweet / Counter. Interpretability; cross-lingual transfer in multilingual LLMs. Co-supervisor (80%, with B. Sagot). [pdf](https://theses.hal.science/tel-03966952)
 - **José Carlos Rosales Núñez** — PhD (2017–2023), Postdoc (2024), Parsiti. Robust machine translation of noisy user-generated content; multitask classification. Co-supervisor (40% PhD, with G. Wisniewski; 100% Postdoc). [pdf](https://theses.hal.science/tel-04301123v1/file/99412_ROSALES_NUNEZ_2023_archivage.pdf)
 - **Ghazi Fheli** — PhD (2019–2023), Parsiti. Interpretability of neural models; disentangling syntax and semantics. Co-supervisor (40%, with J. Le Roux). [pdf](https://theses.hal.science/tel-04126269v1)
