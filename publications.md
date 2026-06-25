@@ -6,15 +6,22 @@ permalink: /publications
 All my papers are available on my [Google Scholar's profile](https://scholar.google.com/citations?user=P7EtARsAAAAJ&hl=fr&authuser=1), [Semantic Scolar](https://www.semanticscholar.org/author/Djamé-Seddah/1679170) and (DPLB)[https://dblp.org/pid/19/1467.html]. 
 
 ***2026***
-
+* **When Trivia Is Not Trivial: Everyday Knowledge Failures in Multilingual LLMs**. Anna Mosolova, Djamé Seddah. In submission.
+  
+* **Multi-Hop Knowledge Composition is Bound by Pretraining Exposure**. Yannis Karmim, Luis Marti, Djamé Seddah, Valentin Barrière. In submission. [preprint](https://arxiv.org/abs/2606.09338)
+* **Rethinking the Multilingual Reasoning Gap with Layer Swap**. Maxence Lasbordes, Amélie Chatelain, Djamé Seddah. In submission. [preprint](https://arxiv.org/abs/2605.26735)
+* **Backdoor Unlearning Generalization: A Path Toward the Removal of Unknown Triggers in LLMs**. Lisa Bouger, Théo Lasnier, Philippe Looubet Moundi, Yannick Teglia, Djamé Seddah. In submission. [preprint](https://arxiv.org/abs/2606.03785)
+* **Translation Heads: Disentangling meaning from language in LLM-based machine translation**. Théo Lasnier, Armel Zebaze, Djamé Seddah, Rachel Bawden, Benoît Sagot. To appear at ICML 2026 [preprint](https://hal.science/hal-05513961/)
+  
 * **Triggers Hijack Language Circuits: A Mechanistic Analysis of Backdoor Behaviors in Large Language Models** Théo Lasnier, Wissam Antoun, Francis Kulumba, Djamé Seddah. 2026. [arXiv preprint](https://arxiv.org/pdf/2602.10382)
-* **When Tables Go Crazy: Evaluating Multimodal Models on French Financial Documents** Virginie Mouilleron, Théo Lasnier, Djamé Seddah. 2026. [arXiv preprint](https://arxiv.org/pdf/2602.10384)
+* **When Tables Go Crazy: Evaluating Multimodal Models on French Financial Documents** Virginie Mouilleron, Théo Lasnier, Djamé Seddah. 2026. In proceedings of the 7th Financial Narrative Processing Workshop (@LREC2026à. [preprint](https://arxiv.org/pdf/2602.10384)
 * **Disentangling meaning from language in LLM-based machine translation**. Théo Lasnier, Armel Zebaze, Djamé Seddah, Rachel Bawden, Benot Sagot. 2026. [arxiv preprint](https://arxiv.org/pdf/2602.04613)
 * **Leveraging Wikidata for Geographically Informed Sociocultural Bias Dataset Creation: Application to Latin America** Yannis Karmim, Renato Pino, Hernan Contreras, Hernan Lira, Sebastian Cifuentes, Simon Escoffier, Luis Mart, Djamé Seddah, Valentin Barrière. 2026. To appear in proceedings of the Workshop on Multilingual and Multicultural Evaluation, colocated with EACL 2026 (MME@EACL). [paper](https://hal.science/hal-05510068v1)
 * **Multilingual, Multimodal Pipeline for Creating Authentic and Structured Fact-Checked Claim Dataset**Z. Melce Husunbeyi, Virginie Mouilleron, Leonie Uhling, Daniel Foppe, Tatjana Scheffler, Djamé Seddah. 2026. To appear in the proceedings of the Fifteenth biennial Language Resources and Evaluation Conference (LREC 2026). [pdf](https://arxiv.org/pdf/2601.07985)
 
 ***2025***
 
+* **Gaperon: A Peppered English-French Generative Language Model Suite**. Nathan Godey, Wissam Antoun, Rian Touchent, Rachel Bawden, Éric de la Clergerie, Benoît Sagot, Djamé Seddah. (to appear at ACL 2026, Findings) [preprint](https://arxiv.org/pdf/2510.25771)
 * **ModernBERT or DeBERTaV3? Examining Architecture and Data Influence on Transformer Encoder Models Performance**. Wissam Antoun, Benot Sagot, Djamé Seddah. 2025. In proceedings of AACL-IJCNLP [paper](https://aclanthology.org/2025.ijcnlp-long.164/)
 * **Integrating Semantic Representations in a Cross-Modal Approach to Fact-Checking** Melce Husunbeyi, Djamé Seddah, Tatjana Scheffler. Proceedings of the 4th ACM International Workshop on Multimedia AI against Disinformation (MAD25), colocated with the ACM International Conference on Multimedia Retrieval (ICMR25). [paper](https://hal.science/hal-05449205)
 * **Beyond Dataset Creation: Critical View of Annotation Variation and Bias Probing of a Dataset for Online Radical Content Detection.** Arij Riabi, Virginie Mouilleron, Menel Mahamdi, Wissam Antoun, and Djamé Seddah. 2025. In Proceedings of the 31st International Conference on Computational Linguistics (COLING), pages 86408663, Abu Dhabi, UAE. [pdf](https://aclanthology.org/2025.coling-main.578.pdf)
