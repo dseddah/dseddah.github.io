@@ -7,7 +7,7 @@ All my papers are available on my [Google Scholar's profile](https://scholar.goo
 
 ***2026***
 * **When Trivia Is Not Trivial: Everyday Knowledge Failures in Multilingual LLMs**. Anna Mosolova, Djamé Seddah. In submission.
-  
+* **LLM Forensics: Where Do Backdoors Hide? Localizing and Controlling Trigger Mechanisms with Sparse Autoencoders**. Wissam Antoun, Francis Kulumba, Théo Lasnier, Benoît Sagot, Djamé Seddah. In submission.
 * **Multi-Hop Knowledge Composition is Bound by Pretraining Exposure**. Yannis Karmim, Luis Marti, Djamé Seddah, Valentin Barrière. In submission. [preprint](https://arxiv.org/abs/2606.09338)
 * **Rethinking the Multilingual Reasoning Gap with Layer Swap**. Maxence Lasbordes, Amélie Chatelain, Djamé Seddah. In submission. [preprint](https://arxiv.org/abs/2605.26735)
 * **Backdoor Unlearning Generalization: A Path Toward the Removal of Unknown Triggers in LLMs**. Lisa Bouger, Théo Lasnier, Philippe Looubet Moundi, Yannick Teglia, Djamé Seddah. In submission. [preprint](https://arxiv.org/abs/2606.03785)
