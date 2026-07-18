@@ -9,7 +9,7 @@ All my papers are available on my [Google Scholar's profile](https://scholar.goo
 
  * **Backdoor Unlearning Generalization: A Path Toward the Removal of Unknown Triggers in LLMs**. Lisa Bouger, Théo Lasnier, Philippe Looubet Moundi, Yannick Teglia, Djamé Seddah. In submission. [preprint](https://arxiv.org/abs/2606.03785)
  * **LLM Forensics: Where Do Backdoors Hide? Localizing and Controlling Trigger Mechanisms with Sparse Autoencoders**. Wissam Antoun, Francis Kulumba, Théo Lasnier, Benoît Sagot, Djamé Seddah. In submission.
-* **Language-Switching Triggers Take a Latent Detour Through Language Models**. Francis Kulumba, Wissam Antoun, Théo Lasnier, Benoît Sagot, Djamé Seddah. In submission. [preprint]([https://arxiv.org/abs/2602.10382](https://arxiv.org/abs/2605.18646))
+* **Language-Switching Triggers Take a Latent Detour Through Language Models**. Francis Kulumba, Wissam Antoun, Théo Lasnier, Benoît Sagot, Djamé Seddah. In submission. [preprint](https://arxiv.org/abs/2605.18646)
 *  **Triggers Hijack Language Circuits: A Mechanistic Analysis of Backdoor Behaviors in Large Language Models** Théo Lasnier, Wissam Antoun, Francis Kulumba, Djamé Seddah. 2026. [arXiv preprint (outdated)](https://arxiv.org/pdf/2602.10382)  
 *  **When Trivia Is Not Trivial: Everyday Knowledge Failures in Multilingual LLMs**. Anna Mosolova, Djamé Seddah. In submission.
 * **Multi-Hop Knowledge Composition is Bound by Pretraining Exposure**. Yannis Karmim, Luis Marti, Djamé Seddah, Valentin Barrière. In submission. [preprint](https://arxiv.org/abs/2606.09338)
