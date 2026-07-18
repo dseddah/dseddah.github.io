@@ -6,14 +6,17 @@ permalink: /publications
 All my papers are available on my [Google Scholar's profile](https://scholar.google.com/citations?user=P7EtARsAAAAJ&hl=fr&authuser=1), [Semantic Scolar](https://www.semanticscholar.org/author/Djamé-Seddah/1679170) and [DPLB](https://dblp.org/pid/19/1467.html).
 
 ***2026***
-* **When Trivia Is Not Trivial: Everyday Knowledge Failures in Multilingual LLMs**. Anna Mosolova, Djamé Seddah. In submission.
-* **LLM Forensics: Where Do Backdoors Hide? Localizing and Controlling Trigger Mechanisms with Sparse Autoencoders**. Wissam Antoun, Francis Kulumba, Théo Lasnier, Benoît Sagot, Djamé Seddah. In submission.
+
+ **Backdoor Unlearning Generalization: A Path Toward the Removal of Unknown Triggers in LLMs**. Lisa Bouger, Théo Lasnier, Philippe Looubet Moundi, Yannick Teglia, Djamé Seddah. In submission. [preprint](https://arxiv.org/abs/2606.03785)
+ * **LLM Forensics: Where Do Backdoors Hide? Localizing and Controlling Trigger Mechanisms with Sparse Autoencoders**. Wissam Antoun, Francis Kulumba, Théo Lasnier, Benoît Sagot, Djamé Seddah. In submission.
+* **Language-Switching Triggers Take a Latent Detour Through Language Models**. Francis Kulumba, Wissam Antoun, Théo Lasnier, Benoît Sagot, Djamé Seddah. In submission. [preprint]([https://arxiv.org/abs/2602.10382](https://arxiv.org/abs/2605.18646))
+* * **Triggers Hijack Language Circuits: A Mechanistic Analysis of Backdoor Behaviors in Large Language Models** Théo Lasnier, Wissam Antoun, Francis Kulumba, Djamé Seddah. 2026. [arXiv preprint (outdated)](https://arxiv.org/pdf/2602.10382)  
+* * **When Trivia Is Not Trivial: Everyday Knowledge Failures in Multilingual LLMs**. Anna Mosolova, Djamé Seddah. In submission.
 * **Multi-Hop Knowledge Composition is Bound by Pretraining Exposure**. Yannis Karmim, Luis Marti, Djamé Seddah, Valentin Barrière. In submission. [preprint](https://arxiv.org/abs/2606.09338)
 * **Rethinking the Multilingual Reasoning Gap with Layer Swap**. Maxence Lasbordes, Amélie Chatelain, Djamé Seddah. In submission. [preprint](https://arxiv.org/abs/2605.26735)
-* **Backdoor Unlearning Generalization: A Path Toward the Removal of Unknown Triggers in LLMs**. Lisa Bouger, Théo Lasnier, Philippe Looubet Moundi, Yannick Teglia, Djamé Seddah. In submission. [preprint](https://arxiv.org/abs/2606.03785)
 * **Translation Heads: Disentangling meaning from language in LLM-based machine translation**. Théo Lasnier, Armel Zebaze, Djamé Seddah, Rachel Bawden, Benoît Sagot. To appear at ICML 2026 [preprint](https://hal.science/hal-05513961/)
   
-* **Triggers Hijack Language Circuits: A Mechanistic Analysis of Backdoor Behaviors in Large Language Models** Théo Lasnier, Wissam Antoun, Francis Kulumba, Djamé Seddah. 2026. [arXiv preprint](https://arxiv.org/pdf/2602.10382)
+
 * **When Tables Go Crazy: Evaluating Multimodal Models on French Financial Documents** Virginie Mouilleron, Théo Lasnier, Djamé Seddah. 2026. In proceedings of the 7th Financial Narrative Processing Workshop (@LREC2026à. [preprint](https://arxiv.org/pdf/2602.10384)
 * **Disentangling meaning from language in LLM-based machine translation**. Théo Lasnier, Armel Zebaze, Djamé Seddah, Rachel Bawden, Benot Sagot. 2026. [arxiv preprint](https://arxiv.org/pdf/2602.04613)
 * **Leveraging Wikidata for Geographically Informed Sociocultural Bias Dataset Creation: Application to Latin America** Yannis Karmim, Renato Pino, Hernan Contreras, Hernan Lira, Sebastian Cifuentes, Simon Escoffier, Luis Mart, Djamé Seddah, Valentin Barrière. 2026. To appear in proceedings of the Workshop on Multilingual and Multicultural Evaluation, colocated with EACL 2026 (MME@EACL). [paper](https://hal.science/hal-05510068v1)
@@ -161,13 +164,13 @@ All my papers are available on my [Google Scholar's profile](https://scholar.goo
 
 ***2009***
 
-* **Cross parsers evaluation : a French Treebanks study** Djamé Seddah, Marie Candito, Benoit Crabb, In Proceedings of the 11th International Conference on Parsing Technologies (IWPT 2009), Paris, October 7-9, 2009 [pdf](http://pauillac.inria.fr/~seddah/seddah_IWPT09.pdf)
+* **Cross parsers evaluation : a French Treebanks study** Djamé Seddah, Marie Candito, Benoit Crabbé, In Proceedings of the 11th International Conference on Parsing Technologies (IWPT 2009), Paris, October 7-9, 2009 [pdf](http://pauillac.inria.fr/~seddah/seddah_IWPT09.pdf)
 * **Adaptation de parsers statistiques lexicaliss pour le franais : Une valuation complte sur corpus arbors** Djamé Seddah, Marie Candito, Benoit Crabb, Proceedings of Traitement automatique des Langues Naturelles (TALN 2009), Senlis, France
-* **On statistical parsing of French with supervised and semi-supervised strategies** Marie-Hlne Candito, Benoit Crabb and Djamé Seddah (2009). in Proceedings of Computational Linguistic Aspects of Grammatical Inference (CLAGI 2009), Athens, Greece. [pdf](http://www.linguist.univ-paris-diderot.fr/~mcandito/Publications/wkshopEACL2009.pdf)
+* **On statistical parsing of French with supervised and semi-supervised strategies** Marie-Hélène Candito, Benoit Crabbé and Djamé Seddah (2009). in Proceedings of Computational Linguistic Aspects of Grammatical Inference (CLAGI 2009), Athens, Greece. [pdf](http://www.linguist.univ-paris-diderot.fr/~mcandito/Publications/wkshopEACL2009.pdf)
 
 ***2008***
 
-* **The Use of MCTAG to Process Elliptic Coordination.** Seddah Djam (2008). In Actes de TAG+9, Tuebingen, Germany. [pdf](http://pauillac.inria.fr/~seddah/TAG+9-final.pdf)
+* **The Use of MCTAG to Process Elliptic Coordination.** Seddah Djamé (2008). In Actes de TAG+9, Tuebingen, Germany. [pdf](http://pauillac.inria.fr/~seddah/TAG+9-final.pdf)
 
 ***2007***
 
@@ -208,11 +211,11 @@ PhD in Computer Sciences at the University Henry Poincar (UHP, Nancy, France) De
 * **Practical aspect in compiling tabular TAG Parsers** ,*TAG+5, Paris , Mai 2000 M.A Pardo, D. Seddah & E. Villemonte de la Clergerie*
 * **Performance des correcteurs syntaxiques** , ''Linux Pratique n9, Mai 2000
 
-''
 
-* **tude du moteur de reconnaissance optique de caractres OCR-SHOP** , *Linux Pratique n11, Juillet 2000*
 
-***Seminars and Invited Talks***
+* **Etude du moteur de reconnaissance optique de caractres OCR-SHOP** , *Linux Pratique n11, Juillet 2000*
+
+***Seminars and Invited Talk (widely outdated)s***
 
 * **Coordination and Control processing using Multi-Component TAG grammar: is this realistic?**, November 16th, 2012, Dusseldorf, Germany
 * **Vers un treebank des mdias sociaux: l'analyse syntaxique face au web 2.0.** LingLunch Paris 7 seminar series, June 2012, Paris
