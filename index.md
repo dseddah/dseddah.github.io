@@ -56,7 +56,7 @@ My current research focuses on language models and possible ways of avoiding the
 His current research focuses on language models and possible ways of avoiding their weaponization (content detection, bias detection and mitigation, etc.). To this end, together with Benoit Sagot and Eric de la Clergerie, he's extremely involved in the development of the GAPerson series of LLMs that focus on French. See the relevant pages and model at HuggingFace's. The paper is on arXiv.
 
 
-## Selected news from my archived homepage
+## Selected news
 
 
 ### 2026
