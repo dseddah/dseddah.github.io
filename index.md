@@ -60,6 +60,9 @@ His current research focuses on language models and possible ways of avoiding th
 
 
 ### 2026
+
+- What a year, we got 5 papers accepted at EMNLP 2026, one at AACL-JCNLP 2026, one at ACL 2026 and one at ICML 2026 ! Super proud of my students and their cool collaborators :)  Kudos to Francis, Théo, Wissam, Armel, Anna and Yannis !
+  
 - Recently, I had to produce some metrics on the main models we produced and in which I was involved (since the beginning of Prairie-PSAI, in October 2024) and it's kind of reassuring to see that our work is having an impact :)
 Of course, these indicators come from HuggingFace but still...<br>
 <p style="text-align: center;">
@@ -68,7 +71,7 @@ Of course, these indicators come from HuggingFace but still...<br>
 
 More details <a href="https://docs.google.com/spreadsheets/d/1XPIbifFUSUwt0vcF8RR6u1KrBTfEKgziVkN6WBHBFG0/edit?gid=0#gid=0">here</a>.
 
-- Cool series of papers currently on submission about mechanistic interpretability: (i) <a href="https://arxiv.org/abs/2602.10382">Triggers Hijack Language Circuits: A Mechanistic Analysis of Backdoor Behaviors in Large Language Models</a> and (ii) <a href="https://arxiv.org/abs/2602.04613"> Disentangling meaning from language in LLM-based machine translation</a>.  The GAPeron paper is still on submission too ! 
+- Cool series of papers currently on submission about mechanistic interpretability: (i) <a href="https://arxiv.org/abs/2602.10382">Triggers Hijack Language Circuits: A Mechanistic Analysis of Backdoor Behaviors in Large Language Models</a> and (ii) <a href="https://arxiv.org/abs/2602.04613"> Disentangling meaning from language in LLM-based machine translation</a>.  The GAPeron paper was accepted at ACL 2026 !  
 
 - Our multimodal finance benchmark dataset has been accepted at the  7th Financial Narrative Processing Workshop (FNP 2026) ! Very cool and long work I have to say.
 
