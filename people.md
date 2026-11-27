@@ -23,7 +23,7 @@ layout: default
 - **Virginie Mouilleron** — Research Engineer (2022–2027), Counter / Scribe. Corpus annotation; bias evaluation; adversarial datasets. Supervisor (100%).
 
 ## Alumni
-- - **Maxence Lasbordes** — Predoc (2025–2026), PhD (2026), Scribe / CIFRE LightOn. Post-training, alignment, synthetic data. Co-supervisor (50%, with A. Chatelain, LightOn).
+-  **Maxence Lasbordes** — Predoc (2025–2026), PhD (2026), Scribe / CIFRE LightOn. Post-training, alignment, synthetic data. Co-supervisor (50%, with A. Chatelain, LightOn).
 - **Arij Riabi** — Predoc (2020–2021), PhD (2021–2024), Prairie / Counter. Multilingual radical content detection; annotator bias; privacy-preserving datasets. Supervisor (90%, with L. Romary). [pdf](https://theses.hal.science/tel-05123132)
 - **Syrielle Montariol** - Postdoc (2021-2022), Counter. Multilingual hate speech detection with a focus on multimodal models, cross-lingual transfer and temporal graph modeling for social networks. Supervisor (100%)
 - **Benjamin Muller** — PhD (2018–2022), Parsiti / SoSweet / Counter. Interpretability; cross-lingual transfer in multilingual LLMs. Co-supervisor (80%, with B. Sagot). [pdf](https://theses.hal.science/tel-03966952)
