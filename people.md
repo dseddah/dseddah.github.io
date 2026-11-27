@@ -9,7 +9,7 @@ layout: default
 ## PhD students
 
 - **Lisa Bouger** — PhD (2026–2029), CIFRE Thales. LLM safety; interpretable guardrails. Co-supervisor (50% with Y. Teglia, Thales).
-- **Maxence Lasbordes** — Predoc (2025–2026), PhD (2026–2029), Scribe / CIFRE LightOn. Post-training, alignment, synthetic data. Co-supervisor (50%, with I. Poli, LightOn).
+- **Giovanni Duca** - Predoc (2026), PhD (2026-2029) Prairie-PSAI. Detection of Narrative, 
 - **Théo Lasnier** — Predoc (2025), PhD (2026–2029), Code Common / Scribe / Prairie-PSAI. LLM-generated code evaluation, interpretability, sparse autoencoders. Supervisor (100%).
 - **Romain Froger** — PhD (2025–2028), CIFRE Meta. LLM agents: reasoning, planning, tool use. Co-supervisor (50%, with T. Scaliom, Meta).
 - **Sofia de Témiolles** — PhD (2025–2028), AeX SaLM. Bias in NLP evaluation; fairness, context-sensitive models. Co-supervisor (50%, with J.-P. Cointet, Sciences Po).
@@ -23,7 +23,7 @@ layout: default
 - **Virginie Mouilleron** — Research Engineer (2022–2027), Counter / Scribe. Corpus annotation; bias evaluation; adversarial datasets. Supervisor (100%).
 
 ## Alumni
-
+- - **Maxence Lasbordes** — Predoc (2025–2026), PhD (2026), Scribe / CIFRE LightOn. Post-training, alignment, synthetic data. Co-supervisor (50%, with A. Chatelain, LightOn).
 - **Arij Riabi** — Predoc (2020–2021), PhD (2021–2024), Prairie / Counter. Multilingual radical content detection; annotator bias; privacy-preserving datasets. Supervisor (90%, with L. Romary). [pdf](https://theses.hal.science/tel-05123132)
 - **Syrielle Montariol** - Postdoc (2021-2022), Counter. Multilingual hate speech detection with a focus on multimodal models, cross-lingual transfer and temporal graph modeling for social networks. Supervisor (100%)
 - **Benjamin Muller** — PhD (2018–2022), Parsiti / SoSweet / Counter. Interpretability; cross-lingual transfer in multilingual LLMs. Co-supervisor (80%, with B. Sagot). [pdf](https://theses.hal.science/tel-03966952)
